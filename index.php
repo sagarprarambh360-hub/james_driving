@@ -5,8 +5,8 @@
    --------------------------- banner_video ---------------------
    --------------------------------------------------------> 
 <section class="banner_video position-relative z-2 text-center text-sm-start overflow-hidden py-5"  style="background-image:url(./images/banner_n.jpg)">
-   <div class="cont mb-0 lg-md-5 mb-lg-0 z-3 w-100 box d-flex align-items-center pt-5 text-center text-lg-start position-relative z-2">
-      <div class="container mt-4 mt-xxl-5">
+   <div class="cont mb-0 lg-md-5 mb-lg-0 z-3 w-100 box d-flex align-items-center pt-md-5 text-center text-lg-start position-relative z-2">
+      <div class="container mt-md-4 mt-xxl-5">
          <div class="row mt-4">
             <div class="col-md-10 col-lg-8 m-auto m-xl-0 text-center text-xl-start  col-xl-7">
                <p class="text-uppercase h6 d-flex align-items-center gap-2 mb-4 text-white"><span class="line-accent"></span> James Driving School<span class="line-accent d-block d-lg-none"></span></p>
@@ -34,7 +34,7 @@
                   <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold" >Book Your Lesson <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"/></a>
                   <a href="#" class="custom-btn btn videobtn btn-lg bg-transparent rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold border-0 w-auto"><span><i class="bi bi-youtube"></i></span> Watch Intro</a>
                </p>
-               <p class="stars mt-4 mt-xxl-5">
+               <p class="stars mt-4 mt-xxl-5 text-start">
                   <span class="images">
                   <img src="images/user1.png" class="rounded-circle" alt="user1"/>
                   <img src="images/user2.png" class="rounded-circle" alt="user2"/>
