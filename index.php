@@ -12,13 +12,13 @@
                <p class="text-uppercase h6 d-flex align-items-center gap-2 mb-4 text-white"><span class="line-accent"></span> James Driving School<span class="line-accent d-block d-lg-none"></span></p>
                <h1 class="mb-sm-3 mb-md-0  fs-1 text-white pb-2 pb-md-3 pb-xxl-4 text-center text-xl-start fw-bolder" >Achieve <span class="custom-color position-relative"><span class="bg1 position-absolute top-50 start-50 "></span>Driving</span> Confidence with James Driving School</h1>
                <p class="fw-normal pb-2 pb-xxl-4 pe-lg-5 fs-6 text-white">Professional instruction, practical experience, and focused training designed to help you stay in control and pass with confidence. </p>
-               <div class="row mb-3 d-none d-xxl-block">
+               <div class="row mb-3 d-none d-xxl-flex">
                   <div class="col-sm-6 col-xxl-5">
                      <div class="set d-xl-flex gap-3 align-items-center ">
                         <span class="d-flex align-items-center">
                         <img src="images/learner.png" class="w-100" alt="banner"/>
                         </span>
-                        <h5 class="text-white ">New <br>Drivers</h5>
+                        <h5 class="text-white ">Experienced <br>Drivers</h5>
                      </div>
                   </div>
                   <div class="col-sm-6 col-xxl-5">
@@ -258,10 +258,10 @@
    <div class="container ">
       <div class="position-relative z-1 box">
          <h2 class="mb-sm-3 mb-md-0  fs-2 text-white pb-2 pb-md-3 pb-xxl-4 text-center fw-bolder" >
-         We’ve Great Experience of Driving</h1>
-         <p class="text-center text-white">Lorem ipsum is are many variations of pass of norms and guide an simply free.</p>
+         Take the First Step Towards Your License</h1>
+         <p class="text-center text-white">Professional lessons, real experience, and expert guidance, all in one place.</p>
          <p class="text-center mb-0">
-            <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Contact Us<img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
+            <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
          </p>
       </div>
    </div>
@@ -464,11 +464,10 @@
 <section class="cta afterbg text-center position-relative text-lg-start " style="background-image:url(./images/cta2.png);  background-size: cover; background-position: center center  background-attachment: fixed;">
    <div class="container ">
       <div class="position-relative z-1 box">
-         <h2 class="mb-sm-3 mb-md-0  fs-2 text-white pb-2 pb-md-3 pb-xxl-4 text-center fw-bolder" >
-         We’ve Great Experience of Driving</h1>
-         <p class="text-center text-white">Lorem ipsum is are many variations of pass of norms and guide an simply free.</p>
+         <h2 class="mb-sm-3 mb-md-0  fs-2 text-white pb-2 pb-md-3 pb-xxl-4 text-center fw-bolder" >Ready to Get Behind the Wheel?</h1>
+         <p class="text-center text-white">Complete your night driving faster with 1 hour = 3 logbook hours, guided by certified instructors.</p>
          <p class="text-center mb-0">
-            <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Contact Us<img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
+            <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Start Learning Today <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
          </p>
       </div>
    </div>

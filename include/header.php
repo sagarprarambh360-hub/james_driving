@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>James Driving</title>
-      <link rel="shortcut icon" href="./images/logo.png">
+      <link rel="shortcut icon" href="./images/favicon.png">
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <link rel="stylesheet" href="css/custom.css">
       <link rel="stylesheet" href="css/owl.carousel.min.css">
