@@ -121,7 +121,6 @@
 
 <!--------------------  script -------------------->
 <script defer src="js/jquery.min.js"></script>
-<script defer src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.0/js/swiper.min.js"></script>
 <script defer src="js/bootstrap.bundle.min.js"></script>
 <script defer src="js/gsap.min.js"></script>
 <script defer src="js/ScrollTrigger.min.js"></script>

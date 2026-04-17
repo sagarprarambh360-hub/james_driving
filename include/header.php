@@ -9,9 +9,6 @@
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <link rel="stylesheet" href="css/custom.css">
       <link rel="stylesheet" href="css/owl.carousel.min.css">
-      <link href="fonts/Chronicle/stylesheet.css" rel="stylesheet">
-      <link rel="stylesheet" href="fonts/Roabla/stylesheet.css?v=4">
-      <link rel="stylesheet" href="fonts/TimesNewRoman/stylesheet.css?v=4">
    </head>
    <body >
       <!-------------------------------------------------------
