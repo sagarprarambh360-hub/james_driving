@@ -9,7 +9,7 @@
             <a href="#" class="d-inline">
                <img src="images/footerlogo.png" class="footerlogo" alt="logo"/>
             </a>
-            <p class="text-white mb-4 mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+            <p class="text-white mb-4 mt-3">James Driving School is committed to delivering reliable, professional instruction with a focus on safety, consistency, and a positive learning experience for every learner.</p>
             <ul class="p-0 d-flex gap-3 social ">
                <li class="list-group-item">
                   <a href="#" target="blank" class="text-white rounded-circle d-flex align-items-center justify-content-center">

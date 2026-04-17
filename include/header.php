@@ -11,9 +11,10 @@
       <link rel="stylesheet" href="css/owl.carousel.min.css">
    </head>
    <body >
-      <!-------------------------------------------------------
-         --------------------------- header ---------------------
-         --------------------------------------------------------> 
+
+<!-------------------------------------------------------
+--------------------------- header ---------------------
+--------------------------------------------------------> 
       <header id="myHeader" class="position-fixed z-3 w-100 px-lg-3 --transition-ease">
          <nav class="navbar navbar-expand-lg bg-body-tertiary bg-transparent py-3 --transition-ease">
             <div class="container position-relative">
@@ -29,7 +30,7 @@
                         <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
                      </svg> -->
                      <img src="images/menu2.png" alt="menu2"/>
- <img class="d-none" src="images/menu2w.png" alt="menu2"/>
+                     <img class="d-none" src="images/menu2w.png" alt="menu2"/>
                  
                      <!-- <svg class="d-none" xmlns="http://www.w3.org/2000/svg" width="27" height="27" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
                         <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z"/>
