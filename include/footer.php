@@ -6,7 +6,7 @@
    <div class="row">
       <div class="col-lg-4 col-xxl-5 box">
          <div class="pe-0 pe-lg-4 pe-xl-5">
-            <a href="#" class="d-inline">
+            <a href="#" class="d-inline">  
                <img src="images/footerlogo.png" class="footerlogo" alt="logo"/>
             </a>
             <p class="text-white mb-4 mt-3">James Driving School is committed to delivering reliable, professional instruction with a focus on safety, consistency, and a positive learning experience for every learner.</p>
