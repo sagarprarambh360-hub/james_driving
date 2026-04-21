@@ -31,7 +31,7 @@
                   </div>
                </div>
                <p>
-                  <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold" >Book Your Lesson <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"/></a>
+                  <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold" >Book Your Lesson <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"/></a>
                   <a href="#" class="custom-btn btn videobtn btn-lg bg-transparent rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold border-0 w-auto"><span><i class="bi bi-youtube"></i></span> Watch Intro</a>
                </p>
                <p class="stars mt-4 mt-xxl-5 text-start">
@@ -82,33 +82,67 @@
       <h2 class="mb-sm-4 mb-md-3 fs-2 text-black text-center fw-bolder" >
       Prices and <span class="custom-color position-relative"><span class="bg1 position-absolute top-50 start-50 "></span>Packages</span></h1>
       <p class="text-center">Flexible packages for every learner.</p>
-      <div class="row box mt-4">
+      <div class="row box mt-4 justify-content-center">
+
          <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
-            <div class="set text-center p-3 p-xxl-4 pb-3 rounded-3 h-100">
-               <h4 class="mb-0 custom-color fw-bolder mb-4">Beginner & Logbook <br>Package</h4>
-               <h3 class="custom-color2 fs-1">$85/hr</h3>
-               <a href="#" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
-               <ul class="ps-0 list-unstyled mt-4 text-start ">
-                  <li class=" mb-2 d-flex align-items-center gap-3 ">
+            <div class="set text-center p-3 p-xxl-4 pb-2 rounded-3 h-100">
+               <h4 class="mb-0 custom-color fw-bolder mb-4">Standard / Overseas <br>Conversion</h4>
+               <h3 class="custom-color2 fs-1">$70+ / PH</h3>
+               <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
+               <ul class="ps-0 list-unstyled mt-4 text-start">
+                  <li class=" mb-2 d-flex align-items-center gap-3">
                      <img src="images/sticon.png" alt="sticon"/>
-                     Vehicle control, steering & moving off
+                     Driving techniques improvement
                   </li>
                   <li class="mb-2 d-flex align-items-center gap-3">
                      <img src="images/sticon.png" alt="sticon"/>
-                     Traffic awareness & road positioning
+                     Traffic handling & positioning
                   </li>
                   <li class="mb-2 d-flex align-items-center gap-3">
                      <img src="images/sticon.png" alt="sticon"/>
-                     Car park driving & turns
+                     Confidence building
                   </li>
                   <li class="mb-2 d-flex align-items-center gap-3">
                      <img src="images/sticon.png" alt="sticon"/>
-                     Logbook tracking & progress support
+                     Real-road driving practice
                   </li>
                </ul>
             </div>
          </div>
+
          <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
+            <div class="set text-center p-3 p-xxl-4 pb-3 active rounded-3 h-100">
+               <h4 class="mb-0 custom-color fw-bolder mb-4">Beginner & Learner Logbook Package</h4>
+               <h3 class="custom-color2 fs-1">$125/1.5 hrs</h3>
+               <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
+               <ul class="ps-0 list-unstyled mt-4 text-start ">
+                  <li class=" mb-2 d-flex align-items-center gap-3 ">
+                     <img src="images/sticonwhite.png" alt="sticon"/>
+                     DV Vehicle control, steering & moving off
+                  </li>
+           
+                  <li class="mb-2 d-flex align-items-center gap-3">
+                     <img src="images/sticonwhite.png" alt="sticon"/>
+                Traffic awareness & Lane change skills
+                  </li>
+                  <li class="mb-2 d-flex align-items-center gap-3">
+                     <img src="images/sticonwhite.png" alt="sticon"/>
+Parking and maneuvering skills
+                  </li>
+
+
+<li class="mb-2 d-flex align-items-center gap-3">
+                     <img src="images/sticonwhite.png" alt="sticon"/>Night driving techniques</li>
+
+<li class="mb-2 d-flex align-items-center gap-3">
+                     <img src="images/sticonwhite.png" alt="sticon"/>Logbook tracking (3 hrs) & progress support </li>
+
+
+               </ul>
+            </div>
+         </div>
+
+         <!-- <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
             <div class="set text-center p-3 p-xxl-4 pb-2 rounded-3 active h-100">
                <h4 class="mb-0 custom-color fw-bolder mb-4">Overseas Conversion <br>Package</h4>
                <h3 class="custom-color2 fs-1">$85/hr</h3>
@@ -132,53 +166,20 @@
                   </li>
                </ul>
             </div>
-         </div>
+         </div> -->
+
+
+
+
          <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
             <div class="set text-center p-3 p-xxl-4 pb-2 rounded-3 h-100">
-               <h4 class="mb-0 custom-color fw-bolder mb-4">Standard Driving <br>Lessons</h4>
-               <h3 class="custom-color2 fs-1">$70/hr</h3>
-               <a href="#" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
+               <h4 class="mb-0 custom-color fw-bolder mb-4">Test Preparation <br>Packages</h4>
+               <h3 class="custom-color2 fs-1">$245/2.5 hrs</h3>
+               <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
                <ul class="ps-0 list-unstyled mt-4 text-start">
                   <li class=" mb-2 d-flex align-items-center gap-3">
                      <img src="images/sticon.png" alt="sticon"/>
-                     Driving techniques improvement
-                  </li>
-                  <li class="mb-2 d-flex align-items-center gap-3">
-                     <img src="images/sticon.png" alt="sticon"/>
-                     Traffic handling & positioning
-                  </li>
-                  <li class="mb-2 d-flex align-items-center gap-3">
-                     <img src="images/sticon.png" alt="sticon"/>
-                     Confidence building
-                  </li>
-                  <li class="mb-2 d-flex align-items-center gap-3">
-                     <img src="images/sticon.png" alt="sticon"/>
-                     Real-road driving practice
-                  </li>
-               </ul>
-            </div>
-         </div>
-         <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
-            <div class="set text-center p-3 p-xxl-4 pb-2 rounded-3 active h-100">
-               <h4 class="mb-0 custom-color fw-bolder mb-4">Test Preparation <br>Package</h4>
-               <h3 class="custom-color2 fs-1">$245/hr</h3>
-               <a href="#" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
-               <ul class="ps-0 list-unstyled mt-4 text-start">
-                  <li class=" mb-2 d-flex align-items-center gap-3">
-                     <img src="images/sticonwhite.png" alt="sticon"/>
-                     Mock test (checklist-based)
-                  </li>
-                  <li class="mb-2 d-flex align-items-center gap-3">
-                     <img src="images/sticonwhite.png" alt="sticon"/>
-                     1-hour pre-test lesson
-                  </li>
-                  <li class="mb-2 d-flex align-items-center gap-3">
-                     <img src="images/sticonwhite.png" alt="sticon"/>
-                     Car provided for test
-                  </li>
-                  <li class="mb-2 d-flex align-items-center gap-3">
-                     <img src="images/sticonwhite.png" alt="sticon"/>
-                     Pick-up included
+                     Mock Test (Checklist Basis)
                   </li>
                </ul>
             </div>
@@ -261,7 +262,7 @@
          Take the First Step Towards Your License</h1>
          <p class="text-center text-white">Professional lessons, real experience, and expert guidance, all in one place.</p>
          <p class="text-center mb-0">
-            <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
+            <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
          </p>
       </div>
    </div>
@@ -467,7 +468,7 @@
          <h2 class="mb-sm-3 mb-md-0  fs-2 text-white pb-2 pb-md-3 pb-xxl-4 text-center fw-bolder" >Ready to Get Behind the Wheel?</h1>
          <p class="text-center text-white">Complete your night driving faster with 1 hour = 3 logbook hours, guided by certified instructors.</p>
          <p class="text-center mb-0">
-            <a href="#" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Start Learning Today <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
+            <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase d-inline-flex align-items-center justify-content-center fw-bold">Start Learning Today <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
          </p>
       </div>
    </div>

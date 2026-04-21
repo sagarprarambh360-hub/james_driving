@@ -48,7 +48,11 @@ h2.fs-2 {font-size: 2.8rem !important;line-height: 50px;}
 .ThemeFont{font-family: var(--ThemeFont);}
 .max-container{ max-width: 1920px;}
 p{line-height: 1.7; font-size: 16px; color:rgb(75 85 99 / var(--tw-text-opacity, 1)) !important;}
-.btn:hover { background: var(--Gray) !important; color: var(--White); transform: translateY(-2px);}
+.btn:hover {
+  background: #083f57;
+  color: var(--White);
+  transform: translateY(-2px);
+}
 
 /************* end col ************/
 .custom-btn {min-width: 160px; list-style: none;  transition: transform 0.2s; color: var(--ThemeColor2); font-size: 14px; font-weight: 500; text-decoration: none; line-height: 30px;}
@@ -89,7 +93,7 @@ header li.nav-item a {color: rgb(75 85 99 / var(--tw-text-opacity, 1));}
 .bg-body-tertiary{background-color: transparent !important;}
 .btn.videobtn:hover {
   background: transparent !important;
-  color: var(--Black);
+  color: var(--ThemeColor2);
 }
 header .navbar-brand .footerlogo.logo-img{
   display:none
@@ -503,7 +507,7 @@ span.grayspan{color:#d1d5db;}
 ********************************* cta ************************
 *****************************************************************/
 .cta.afterbg::after {opacity: .6;}
-.cta {padding: 160px 0; background-attachment: fixed; z-index:-1;}
+.cta {padding: 160px 0; background-attachment: fixed;}
 
 
 /***************************************************************
