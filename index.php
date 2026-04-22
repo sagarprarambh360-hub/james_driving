@@ -74,6 +74,8 @@
    --------------------------- prices ---------------------
    --------------------------------------------------------> 
 <section class="prices py-4 py-xl-5 position-relative text-center text-lg-start" >
+
+   <!-- <h3 class="la">L</h3> -->
    <div class="cta_left position-absolute start-0 top-0 box">
       <img src="images/banner.png" class="rounded-3" alt="banner"/>
       <p class="fw-bold mb-0">More than 8,800 license issued</p>
@@ -351,6 +353,7 @@ Parking and maneuvering skills
    --------------------------- Areas ---------------------
    --------------------------------------------------------> 
 <section class="areas py-4 py-xl-5 position-relative text-center text-lg-start" >
+
    <div class="container">
       <div class="row box align-items-center">
          <div class="col-lg-6  mapimage1">
