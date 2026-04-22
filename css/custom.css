@@ -84,7 +84,10 @@ p{color:#4b5563;}
 /* header .right_btn {min-width: 550px;} */
 img.logo-img {height: 50px;}
 header li.nav-item a:hover { font-weight: 600;}
-header li.nav-item a {color: rgb(75 85 99 / var(--tw-text-opacity, 1));}
+header li.nav-item a {
+  color: rgb(75 85 99 / var(--tw-text-opacity, 1));
+  font-size: 17px;
+}
 .fixed {background: var(--ThemeColor); box-shadow: 0 0 5px #0000001c;}
 .fixed .navbar-toggler img{display:none}
 .fixed .navbar-toggler img.d-none{display:inline !important}
@@ -288,8 +291,7 @@ span.grayspan{color:#d1d5db;}
 .about .founder { background: #fafaf8; border: 1px solid #f3f4f6; transition: transform 0.4s ease;}
 .about .founder .user { background: #ffd1e7; width: 50px; height: 50px;}
 .carimg { margin-top: -100px; width: 120% !important; margin-left: -20%;}
-.about .oner{ position: relative; bottom: -124px; z-index: 99;}
-
+.about .oner{ position: relative; bottom: -124px;z-index: 99; border: 1px solid #ccc; padding: 10px 10px 0; background: white;}
 .carsteeringicon {
   position: absolute;
   left: -152px;
@@ -304,9 +306,24 @@ span.grayspan{color:#d1d5db;}
 /***************************************************************
 ********************************* lessons ************************
 *****************************************************************/
-.lessons .set img { background: var(--ThemeColor2); padding: 20px; width: 90px; height: 90px;}
-.lessons .set{transition: transform 0.3s ease;}
-.lessons .set:hover{transform: scale(1.1);}
+.lessons .set img {
+  background: var(--ThemeColor2);
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.lessons .set {
+  background: #fff;
+  transition: transform 0.3s ease;
+  padding: 20px;
+  border-radius: 20px;
+  border:1px solid #c9d9e0b2;
+}
+.lessons .set p{
+  margin:0;
+}
+.lessons .set:hover{transform: scale(1.05);}
 
 /***************************************************************
 ********************************* areas ************************
@@ -491,14 +508,19 @@ span.grayspan{color:#d1d5db;}
   -webkit-mask-position: center center;
   -webkit-mask-repeat: no-repeat;
 }
-.areas ul li:hover {
+/* .areas ul li:hover {
   transform: scale(1.1);
   box-shadow: 0 10px 18px rgba(255, 186, 0, 0.29);
   color: #ffba00;
   font-weight: 600;
+} */
+
+.areas ul li:hover {
+  transform: scale(1.1);
+  box-shadow: 0 10px 18px rgba(11, 83, 113, 0.16);
+  color: #0b5371;
+  font-weight: 600;
 }
-
-
 
 
 

@@ -24,7 +24,7 @@
                   <div class="col-sm-6 col-xxl-5">
                      <div class="set d-xl-flex gap-3 align-items-center">
                         <span class="d-flex align-items-center">
-                        <img src="images/learner.png" class="w-100" alt="banner"/>
+                        <img src="images/learner2.png" class="w-100" alt="banner"/>
                         </span>
                         <h5 class="text-white ">Overseas & Experienced <br>Drivers</h5>
                      </div>
@@ -84,10 +84,11 @@
       <p class="text-center">Flexible packages for every learner.</p>
       <div class="row box mt-4 justify-content-center">
 
-         <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
+ 
+         <div class="col-md-4 mb-3 mb-xl-0">
             <div class="set text-center p-3 p-xxl-4 pb-2 rounded-3 h-100">
                <h4 class="mb-0 custom-color fw-bolder mb-4">Standard / Overseas <br>Conversion</h4>
-               <h3 class="custom-color2 fs-1">$70+ / PH</h3>
+               <h3 class="custom-color2 fs-1 fw-bold">$70+ / PH</h3>
                <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
                <ul class="ps-0 list-unstyled mt-4 text-start">
                   <li class=" mb-2 d-flex align-items-center gap-3">
@@ -110,10 +111,10 @@
             </div>
          </div>
 
-         <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
+         <div class="col-md-4 mb-3 mb-xl-0">
             <div class="set text-center p-3 p-xxl-4 pb-3 active rounded-3 h-100">
                <h4 class="mb-0 custom-color fw-bolder mb-4">Beginner & Learner Logbook Package</h4>
-               <h3 class="custom-color2 fs-1">$125/1.5 hrs</h3>
+               <h3 class="custom-color2 fs-1 fw-bold">$125/1.5 hrs</h3>
                <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
                <ul class="ps-0 list-unstyled mt-4 text-start ">
                   <li class=" mb-2 d-flex align-items-center gap-3 ">
@@ -171,10 +172,10 @@ Parking and maneuvering skills
 
 
 
-         <div class="col-sm-6 col-xl-3 mb-3 mb-xl-0">
+         <div class="col-md-4 mb-3 mb-xl-0">
             <div class="set text-center p-3 p-xxl-4 pb-2 rounded-3 h-100">
-               <h4 class="mb-0 custom-color fw-bolder mb-4">Test Preparation <br>Packages</h4>
-               <h3 class="custom-color2 fs-1">$245/2.5 hrs</h3>
+               <h4 class="mb-0 custom-color fw-bolder mb-4 ">Test Preparation <br>Packages</h4>
+               <h3 class="custom-color2 fs-1 fw-bold">$245/2.5 hrs</h3>
                <a target="_blank" href="https://api.whatsapp.com/send/?phone=0414723129&text=Hi, I’d like to book a driving lesson with James Driving School. Can you please share available slots?" class="custom-btn w-100 text-white rounded-2 btn btn-lg mb-2 mb-md-0 rounded rounded-0 text-uppercase me-md-4 d-inline-flex align-items-center justify-content-center fw-bold">Book Now <img src="images/arrow.png" class="ms-2" alt="arrow" height="12px" width="12px"></a>
                <ul class="ps-0 list-unstyled mt-4 text-start">
                   <li class=" mb-2 d-flex align-items-center gap-3">
@@ -256,7 +257,28 @@ Parking and maneuvering skills
    --------------------------- cta ---------------------
    --------------------------------------------------------> 
 <section class="cta afterbg text-center position-relative text-lg-start " style="background-image:url(./images/cta1.png);  background-size: cover; background-position: center center  background-attachment: fixed;">
-   <div class="container ">
+  
+
+
+<!-- <video 
+  autoplay 
+  muted 
+  loop 
+  playsinline
+  style="
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  ">
+  
+  <source src="images/cta.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video> 
+ -->
+
+
+
+<div class="container ">
       <div class="position-relative z-1 box">
          <h2 class="mb-sm-3 mb-md-0  fs-2 text-white pb-2 pb-md-3 pb-xxl-4 text-center fw-bolder" >
          Take the First Step Towards Your License</h1>
